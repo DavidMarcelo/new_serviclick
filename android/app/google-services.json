@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "464717119864",
+    "project_id": "serviclcik",
+    "storage_bucket": "serviclcik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464717119864:android:88756fb05856b0d74a488d",
+        "android_client_info": {
+          "package_name": "javier.com.serviclick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464717119864-n4t11t0bdl2oljgo0pepqbv6h221fqoo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "javier.com.serviclick",
+            "certificate_hash": "f8d3ca0133f21bc3f372c193923ab0310377e150"
+          }
+        },
+        {
+          "client_id": "464717119864-dr2cs5ml2egnltf1t29v4jr3fns0sd6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRKICqwlbB4eWLbUEUO_MveIVeMIohcw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464717119864-dr2cs5ml2egnltf1t29v4jr3fns0sd6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
